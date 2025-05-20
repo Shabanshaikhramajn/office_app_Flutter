@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308313028581",
+    "project_id": "office-project-10c1a",
+    "storage_bucket": "office-project-10c1a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308313028581:android:97eae734680d2db5a3610c",
+        "android_client_info": {
+          "package_name": "com.example.office_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-YrZe6iN8OPzmmNNxtwzt-A4pcjoZq4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
